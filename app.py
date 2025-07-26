@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -760,4 +759,3 @@ elif menu == "Business Decisions (CAPEX/NPV)":
         df = df.sort_index()
         csv = df.to_csv(index=False).encode('utf-8')
         st.download_button("📥 Download Cash Flow CSV", data=csv, file_name="business_decision.csv", mime="text/csv")
->>>>>>> 7f56b7a6ae699535d79bcee4f917e33cc67230dc
