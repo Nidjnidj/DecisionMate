@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit  
 pandas  
 numpy  
@@ -5,3 +6,12 @@ numpy-financial
 plotly  
 fpdf  
 xlsxwriter 
+=======
+streamlit  
+pandas  
+numpy  
+numpy-financial  
+plotly  
+fpdf  
+xlsxwriter 
+>>>>>>> 7f56b7a6ae699535d79bcee4f917e33cc67230dc
