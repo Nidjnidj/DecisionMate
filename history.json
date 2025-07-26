@@ -1,0 +1,354 @@
+{
+  "Nijat": [
+    {
+      "Module": "Personal",
+      "Option A": "Stay in current job",
+      "Option B": "Accept new job offer",
+      "Scores A": [
+        5,
+        5,
+        5,
+        8
+      ],
+      "Scores B": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "SWOT": {
+        "Strengths": "",
+        "Weaknesses": "",
+        "Opportunities": "",
+        "Threats": ""
+      },
+      "Reflection": {
+        "Why is this decision hard?": "",
+        "What would you regret?": "",
+        "Gut feeling": ""
+      }
+    },
+    {
+      "Module": "Personal",
+      "Option A": "Stay in current job",
+      "Option B": "Accept new job offer",
+      "Scores A": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Scores B": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "SWOT": {
+        "Strengths": "",
+        "Weaknesses": "",
+        "Opportunities": "",
+        "Threats": ""
+      },
+      "Reflection": {
+        "Why is this decision hard?": "",
+        "What would you regret?": "",
+        "Gut feeling": ""
+      }
+    },
+    {
+      "Module": "Personal",
+      "Option A": "Stay in current job",
+      "Option B": "Accept new job offer",
+      "Scores A": [
+        5,
+        5,
+        6,
+        5
+      ],
+      "Scores B": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "SWOT": {
+        "Strengths": "",
+        "Weaknesses": "",
+        "Opportunities": "",
+        "Threats": ""
+      },
+      "Reflection": {
+        "Why is this decision hard?": "",
+        "What would you regret?": "",
+        "Gut feeling": ""
+      }
+    },
+    {
+      "Module": "Personal",
+      "Option A": "Stay in current job",
+      "Option B": "Accept new job offer",
+      "Scores A": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Scores B": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "SWOT": {
+        "Strengths": "",
+        "Weaknesses": "",
+        "Opportunities": "",
+        "Threats": ""
+      },
+      "Reflection": {
+        "Why is this decision hard?": "",
+        "What would you regret?": "",
+        "Gut feeling": ""
+      }
+    },
+    {
+      "Module": "Business",
+      "CAPEX": 100000.0,
+      "OPEX": 20000.0,
+      "Years": 5,
+      "Discount Rate": 0.1,
+      "Cash Flows": [
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0
+      ],
+      "NPV": -24184.26461183105,
+      "IRR": 0.0
+    },
+    {
+      "Module": "Personal",
+      "Option A": "Stay in current job",
+      "Option B": "Accept new job offer",
+      "Scores A": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Scores B": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "SWOT": {
+        "Strengths": "",
+        "Weaknesses": "",
+        "Opportunities": "",
+        "Threats": ""
+      },
+      "Reflection": {
+        "Why is this decision hard?": "",
+        "What would you regret?": "",
+        "Gut feeling": ""
+      }
+    },
+    {
+      "Module": "Business",
+      "CAPEX": 100000.0,
+      "OPEX": 20000.0,
+      "Years": 5,
+      "Discount Rate": 0.1,
+      "Cash Flows": [
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0
+      ],
+      "NPV": -24184.26461183105,
+      "IRR": 0.0
+    },
+    {
+      "Module": "Personal",
+      "Option A": "Stay in current job",
+      "Option B": "Accept new job offer",
+      "Scores A": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Scores B": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "SWOT": {
+        "Strengths": "",
+        "Weaknesses": "",
+        "Opportunities": "",
+        "Threats": ""
+      },
+      "Reflection": {
+        "Why is this decision hard?": "",
+        "What would you regret?": "",
+        "Gut feeling": ""
+      }
+    },
+    {
+      "Module": "Business",
+      "CAPEX": 100000.0,
+      "OPEX": 20000.0,
+      "Years": 5,
+      "Discount Rate": 0.1,
+      "Cash Flows": [
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0
+      ],
+      "NPV": -24184.26461183105,
+      "IRR": 0.0
+    },
+    {
+      "Module": "Personal",
+      "Option A": "Stay in current job",
+      "Option B": "Accept new job offer",
+      "Scores A": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Scores B": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "SWOT": {
+        "Strengths": "",
+        "Weaknesses": "",
+        "Opportunities": "",
+        "Threats": ""
+      },
+      "Reflection": {
+        "Why is this decision hard?": "",
+        "What would you regret?": "",
+        "Gut feeling": ""
+      }
+    },
+    {
+      "Module": "Business",
+      "CAPEX": 100000.0,
+      "OPEX": 20000.0,
+      "Years": 5,
+      "Discount Rate": 0.1,
+      "Cash Flows": [
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0
+      ],
+      "NPV": -24184.26461183105,
+      "IRR": 0.0
+    }
+  ],
+  "nij": [
+    {
+      "Module": "Personal",
+      "Option A": "Cari i\u015fd\u0259 qalmaq",
+      "Option B": "Yeni i\u015f t\u0259klifini q\u0259bul etm\u0259k",
+      "Scores A": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Scores B": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "SWOT": {
+        "Strengths": "",
+        "Weaknesses": "",
+        "Opportunities": "",
+        "Threats": ""
+      },
+      "Reflection": {
+        "Why is this decision hard?": "",
+        "What would you regret?": "",
+        "Gut feeling": ""
+      }
+    },
+    {
+      "Module": "Business",
+      "CAPEX": 100000.0,
+      "OPEX": 20000.0,
+      "Years": 5,
+      "Discount Rate": 0.1,
+      "Cash Flows": [
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0
+      ],
+      "NPV": -24184.26461183105,
+      "IRR": 0.0
+    },
+    {
+      "Module": "Personal",
+      "Option A": "Cari i\u015fd\u0259 qalmaq",
+      "Option B": "Yeni i\u015f t\u0259klifini q\u0259bul etm\u0259k",
+      "Scores A": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Scores B": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "SWOT": {
+        "Strengths": "",
+        "Weaknesses": "",
+        "Opportunities": "",
+        "Threats": ""
+      },
+      "Reflection": {
+        "Why is this decision hard?": "",
+        "What would you regret?": "",
+        "Gut feeling": ""
+      }
+    },
+    {
+      "Module": "Business",
+      "CAPEX": 100000.0,
+      "OPEX": 20000.0,
+      "Years": 5,
+      "Discount Rate": 0.1,
+      "Cash Flows": [
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0,
+        20000.0
+      ],
+      "NPV": -24184.26461183105,
+      "IRR": 0.0
+    }
+  ]
+}
